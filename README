@@ -9,6 +9,9 @@
 OVERVIEW:
 ---------
 
+This is a cloned copy of the IAT to use to collect data for a disseration about teacher biases. 
+
+The following information is from the origianal file I cloned from:
 This is meant to be an easy-to-use implicit association test (see
 Greenwald, McGhee, & Schwartz, 1998) for use by interested
 psychologists. The flow of the test is driven by javascript, and
@@ -20,6 +23,8 @@ two categories.
 To create and modify versions of the IAT, and to make them available to
 participants, the experimenter can direct their browser to the
 "experimenter.php" file.
+
+
 
 
 REQUIREMENTS:
